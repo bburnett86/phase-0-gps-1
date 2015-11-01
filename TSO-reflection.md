@@ -17,4 +17,4 @@ A: Some of the commands I get confused and sometimes when things aren't fully me
 
 Q: How was your first experience of pairing in a GPS?
 
-A: My first experience pairing in a GPS went okay. There was an initial hiccup with my system that caused me to show up late but after that, it went really well. My pair and I worked very well together, we got what we needed to get done and we were pretty much on the same page the entire time, even though we were all on different time zones.
+A: My first experience pairing in a GPS went okay. There was an initial hiccup with my system that caused me to show up late but after that, it went really well. My pair and I worked very well together, we got what we needed to get done and we were pretty much on the same page the entire time, even though we were all on different time zones.  
